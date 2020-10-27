@@ -139,7 +139,16 @@ img{
     margin-right:auto;
     max-width: 50rem;
 }
+figure{
+   margin-bottom: 2rem; 
+}
+figcaption{
+    padding-top: 0.5rem;
+    text-align: right;
+}
 
 /* Footer */
-
+footer{
+    
+}
 
