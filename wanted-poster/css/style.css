@@ -76,7 +76,7 @@ h2 {
     text-align:center;
 }
 h3 {
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size:2rem;
     font-weight: normal;
     margin: 0;
