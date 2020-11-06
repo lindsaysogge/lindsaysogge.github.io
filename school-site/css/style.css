@@ -148,8 +148,7 @@ nav a {
     font-size: 1.125rem;
     text-decoration: none;
     margin-bottom: 1.5rem;
-    border: .0625rem;
-    border-color: #33658A;
+    border: .0625rem solid #33658A;
 }
 
 nav a:focus,
