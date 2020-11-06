@@ -146,6 +146,7 @@ nav a {
     line-height: 3;
     text-align: center;
     font-size: 1.125rem;
+    text-decoration: none;
     margin-bottom: 1.5rem;
     border: .0625rem;
     border-color: #33658A;
