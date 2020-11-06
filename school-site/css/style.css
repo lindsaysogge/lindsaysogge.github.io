@@ -142,7 +142,10 @@ nav a {
 }
 
 nav a:focus,
-nav a:hover {}
+nav a:hover {
+    color: #FFF
+    background-color: #333658A
+}
 
 nav a:active {}
 
