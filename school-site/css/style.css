@@ -138,7 +138,7 @@ ol {}
 nav {}
 
 nav a {
-    
+    border: .0625rem solid #33658A;
 }
 
 nav a:focus,
