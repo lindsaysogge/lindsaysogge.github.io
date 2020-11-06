@@ -86,12 +86,24 @@ header, footer {
     font-style:normal;
 }
 
-
+@font-face {
+    font-family:
+}
 /* Typography Styles */
 
-html {}
+html {
+    @font-family: 'Monsterrat', Arial, sans-serif;
+}
 
-h1 {}
+h1 {
+    letter-spacing:1.25rem;
+    font-family:'Josefinslab', Garamond, serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center;
+}
 
 h2 {}
 
@@ -125,7 +137,9 @@ ol {}
 
 nav {}
 
-nav a {}
+nav a {
+    
+}
 
 nav a:focus,
 nav a:hover {}
