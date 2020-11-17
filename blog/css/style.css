@@ -51,3 +51,8 @@
 html {
     font-size: 16px;
 }
+img {
+   display: block;
+   margin: left;
+   width: 50%;
+}
