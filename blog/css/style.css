@@ -47,13 +47,16 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+@font-face {
+    font-family: 
+}
 nav {
     text-decoration: none;
 }
 
 .article-img {
     float: left;
-    margin: auto;
+    margin: inherit;
 }
 .subsection {
     float: left;
