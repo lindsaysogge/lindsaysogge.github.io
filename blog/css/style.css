@@ -47,20 +47,3 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-@font-face {
-    font-family: 
-}
-nav {
-    text-decoration: none;
-}
-
-.article-img {
-    float: left;
-    
-}
-.subsection {
-    float: left;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 1rem;
-}
