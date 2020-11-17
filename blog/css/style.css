@@ -48,14 +48,10 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
-html {
-    font-size: 16px;
-}
 p {
    float: right;
-   display: inline-block;
 }
 img {
-   display: inline-block;
+   display: block;
    float: left;
 }
