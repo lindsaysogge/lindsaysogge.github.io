@@ -51,8 +51,9 @@ nav {
     text-decoration: none;
 }
 
-img {
+.article-img {
     float: left;
+    margin: auto;
 }
 .subsection {
     display: grid;
