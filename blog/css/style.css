@@ -47,6 +47,7 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+
 .wrapper {
     display: flex;
 }
@@ -59,6 +60,10 @@
     height: 200px;
     padding-right: 30px;
     padding-bottom: 30px;
+}
+article {
+    grid-column: 1 / 9;
+    grid-row: 3;
 }
 .subsection{
     display:grid;
