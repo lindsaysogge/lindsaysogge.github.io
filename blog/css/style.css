@@ -47,3 +47,9 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+.wrapper {
+    display: flex;
+}
+.wrapper > div {
+    flex: 1;
+}
