@@ -47,11 +47,10 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-img {
-    float: left;
-}
-
 nav {
     text-decoration: none;
-    
+}
+
+img {
+    float: left;
 }
