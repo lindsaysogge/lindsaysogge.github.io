@@ -91,3 +91,7 @@ border-radius: 1rem;
 border: none;
 box-shadow: 2px 2px 2px #333;
 }
+.subsection {
+    display: grid;
+    float: right;
+}
