@@ -44,16 +44,6 @@
             - @font-face or @import (to import typefaces)
 
         */
-.highlight {
-text-transform: uppercase;
-font-family: "ultraregular", serif;
-background-color: maroon;
-padding: 1rem;
-box-shadow:0.625rem 0.625rem 0.625rem grey;
-border-radius: 1.875rem 0.625rem;
-border-color: black;
-color: beige;
-}
 
 .main-section{
 display: flex;
