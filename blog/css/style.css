@@ -44,7 +44,15 @@
             - @font-face or @import (to import typefaces)
 
         */
-
+.column {
+    float: left;
+}
+.left {
+    width: 75%
+}
+.right {
+    width: 25%
+}
 .main-section{
 display: flex;
 }
