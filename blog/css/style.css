@@ -93,6 +93,8 @@ box-shadow: 2px 2px 2px #333;
 }
 .subsection {
     display: grid;
+    display: flex;
+    float: right;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 1rem;
 }
