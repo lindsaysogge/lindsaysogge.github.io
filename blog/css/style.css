@@ -95,5 +95,4 @@ box-shadow: 2px 2px 2px #333;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 1rem;
-    width: 100%;
 }
